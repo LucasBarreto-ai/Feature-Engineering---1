@@ -1,5 +1,4 @@
 Projeto de Feature Engineering Básico (One-Hot Encoding)
-📌 Visão Geral
 
 Este projeto tem como objetivo apresentar, de forma clara, prática e profissional, os conceitos fundamentais de Feature Engineering, com foco na aplicação de One-Hot Encoding em variáveis categóricas.
 
